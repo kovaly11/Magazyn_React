@@ -1,0 +1,12 @@
+.data-in-page{
+    margin-top: 60px;
+}
+.login-in-page{
+    margin-top: 80px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.click-text{
+    cursor: pointer;
+}
